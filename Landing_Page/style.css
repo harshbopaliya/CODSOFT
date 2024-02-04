@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "sans-serif";
+}
+
+.top {
+  display: inline-block;
+}
+
+header {
+  background-color: #456990;
+  color: white;
+  text-align: center;
+}
+
+.section_2 {
+  background-color: #456990;
+  color: white;
+}
+
+.section {
+  height: 100px;
+  background-color: #456990;
+  color: white;
+}
+.unlock {
+  position: relative;
+  width: 400px;
+  background-color: lawngreen;
+  left: 10px;
+  text-align: center;
+}
+
+.explore {
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.explore span {
+  background-color: aliceblue;
+  color: black;
+  text-align: justify;
+}
+
+.math {
+  height: 150px;
+}
+h1 {
+  background-color: purple;
+  text-align: justify;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline white;
+}
+
+p {
+  text-align: justify;
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.content {
+  background-color: #456990;
+  color: white;
+}
+
+img {
+  height: 225px;
+  width: 400px;
+}
+.box1 {
+  border: 2px solid black;
+  background-color: lightgreen;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+  height: 250px;
+}
+
+.box2 {
+  border: 2px solid black;
+  color: black;
+  background-color: lightcoral;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  height: 250px;
+}
+
+.box3 {
+  border: 2px solid black;
+  color: black;
+  background-color: lightseagreen;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  height: 250px;
+}
+
+.box4 {
+  border: 2px solid black;
+  color: black;
+  background-color: lightsalmon;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  height: 250px;
+}
+
+.box5 {
+  border: 2px solid black;
+  color: black;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  background-color: lightskyblue;
+  height: 250px;
+}
+
+.box6 {
+  border: 2px solid black;
+  color: black;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  background-color: lightpink;
+  height: 250px;
+}
+
+.box7 {
+  border: 2px solid black;
+  color: black;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  background-color: #d3c0d2;
+  height: 250px;
+}
+
+footer {
+  background-color: #eeb868;
+  color: black;
+  text-align: center;
+}
+
+.one {
+  text-align: left;
+}
+.two {
+  text-align: right;
+}
