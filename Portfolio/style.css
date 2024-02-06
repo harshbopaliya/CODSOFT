@@ -55,12 +55,12 @@ main hr {
 }
 
 .firstSection .section-left {
-  background-color: #ffdbdb; /* Adjust color as needed */
+  background-color: #ffdbdb;
   flex: 1;
 }
 
 .firstSection .section-right {
-  background-color: #dbffdb; /* Adjust color as needed */
+  background-color: #dbffdb;
   flex: 1;
 }
 
@@ -158,12 +158,12 @@ main hr {
 }
 
 .thirdSection .section-left {
-  background-color: #ffdbdb; /* Adjust color as needed */
+  background-color: #ffdbdb;
   flex: 1;
 }
 
 .thirdSection .section-right {
-  background-color: #dbffdb; /* Adjust color as needed */
+  background-color: #dbffdb;
   flex: 1;
 }
 
@@ -220,12 +220,12 @@ main hr {
 }
 
 .fourthSection .section-left {
-  background-color: #ffdbdb; /* Adjust color as needed */
+  background-color: #ffdbdb;
   flex: 1;
 }
 
 .fourthSection .section-right {
-  background-color: #dbffdb; /* Adjust color as needed */
+  background-color: #dbffdb;
   flex: 1;
 }
 
@@ -344,12 +344,12 @@ main hr {
 }
 
 .fifthSection .section-left {
-  background-color: #ffdbdb; /* Adjust color as needed */
+  background-color: #ffdbdb;
   flex: 1;
 }
 
 .fifthSection .section-right {
-  background-color: #dbffdb; /* Adjust color as needed */
+  background-color: #dbffdb;
   flex: 1;
 }
 
